@@ -1,4 +1,4 @@
-# taxonomic_classification
+# RNA-based taxonomic Classification using Deep Learning
 
 This repository contains the code developed for a research project exploring a deep learning-based approach to taxonomic classification of gene sequences. The study highlights the feasibility, accuracy, and computational efficiency of a CNN-based model utilizing one-hot encoded RNA sequences, offering an alternative to traditional alignment-based methods such as BLAST.
 
